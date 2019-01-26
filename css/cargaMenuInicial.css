@@ -1,0 +1,53 @@
+.preloader {
+    margin-left: 15000px;
+    position: fixed;
+    /*font-family: Franklin Gothic Demi;*/
+}
+/*------------------------------*/
+
+#cargando{
+  
+  background-color: #28334a;
+  background-size: cover;
+  background-position: top;
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  /*IMPORTANTE*/
+  height: 100vh;
+}
+#cargando #cargandocentrar{text-align: -webkit-center;text-align: center;}
+#cargando .imglogo{max-width: 90%;margin-bottom: 10px;}
+#cargando #cargandotext{
+/*  font-family: Franklin Gothic Demi;*/
+  font-size: 30px;
+  color: #ffc971;
+  text-transform: uppercase;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+#cargando #plataform{color: #4b4e57;
+ /* font-family: Franklin Gothic Demi;*/
+  font-size: 20px;
+  text-align: center;
+}
+#cargando .bar-container{background-color: #4c4745;
+height: 3px;
+text-align: left;
+margin-bottom: 10px;
+width: 220px;}
+#relleno{
+  background-color: white;
+height: 3px;
+width: 0%;
+  transition: 0.5s;
+   -webkit-transition: 0.5s;
+}
+
+#cargando h1 {
+  text-align: center;
+  margin: 0;
+  color: #fff;
+}
+
