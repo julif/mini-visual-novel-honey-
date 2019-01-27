@@ -1,2 +1,4 @@
-<h1> visual novel </h1>
-# mini-visual-novel-honey-
+
+# visor de novelas visuales web -version honey-
+
+pagina web que simula una novela visual.
